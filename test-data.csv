@@ -1,0 +1,573 @@
+objectid,address,tile_x,tile_y
+1,"2345 University Ave, Bronx, New York, 10468",4828,6151
+2,"1104 Elder Ave, Bronx, New York, 10472",4829,6153
+4,"11 Mc Keever Pl, Brooklyn, New York, 11225",4826,6162
+5,"95-31 Jamaica Ave, Woodhaven, New York, 11421",4831,6161
+6,"2101 E 16th St, Brooklyn, New York, 11229",4826,6166
+8,"162-24 JAMAICA AVENUE ",4833,6160
+9,"1751 Park Ave, New York, New York, 10035",4826,6154
+10,"62-07 Woodside Ave, Woodside, New York, 11377",4828,6158
+11,"1600 Central Ave, Union City, New Jersey, 07087",4835,6166
+13,"128 Brighton Beach Ave, Brooklyn, New York, 11235",4825,6168
+15,"345 ADAMS STREET ",4824,6161
+16,"37 W 26th St, New York, NY, 10001, USA",4824,6158
+17,"161-21 Jamaica Ave, Jamaica, New York, 11432",4833,6160
+18,"91 Claremont Ave, New York, New York, 10027",4825,6154
+19,"1832 Madison Ave, New York, New York, 10035",4826,6154
+20,"2139 Adam Clayton Powell Jr Blvd, New York, New York, 10027",4826,6154
+21,"1727 Amsterdam Ave, New York, New York, 10031",4826,6153
+22,"619 Lexington Ave, New York, New York, 10022",4825,6157
+23,"524 Park Ave, New York, NY, 10065, USA",4825,6156
+24,"425 W 144th St, New York, New York, 10031",4826,6153
+25,"1047 Amsterdam Ave, New York, New York, 10025",4825,6154
+26,"263 W 86th St, New York, New York, 10024",4825,6155
+27,"601 W 114th St, New York, New York, 10025",4825,6154
+28,"214-41 34TH AVENUE ",4834,6156
+30,"BROOKLYN NAVY YARD",4826,6162
+31,"206-14 Linden Blvd, Cambria Heights, New York, 11411",4835,6161
+32,"118-01 14TH AVENUE ",4831,6155
+33,"34-35 96th St, Corona, New York, 11368",4830,6157
+34,"33-27 97th St, Corona, New York, 11368",4830,6157
+35,"100-10 Astoria Blvd, East Elmhurst, New York, 11369",4830,6157
+36,"48-08 91st Pl, Elmhurst, New York, 11373",4829,6158
+37,"89-16 48th Ave, Elmhurst, New York, 11373",4829,6158
+38,"82-10 Queens Blvd, Elmhurst, New York, 11373",4829,6158
+39,"896 Central Ave, Far Rockaway, NY, 11691, USA",4835,6166
+41,"141-47 72nd Ave, Flushing, New York, 11367",4832,6159
+42,"38-24 149th St, Flushing, New York, 11354",4832,6157
+43,"130-30 31st Ave, Flushing, New York, 11354",4831,6156
+45,"135-32 38TH AVENUE ",4831,6157
+46,"119-45 Union Tpke, Forest Hills, New York, 11375",4831,6159
+47,"71 Cypress Hills St, Brooklyn, NY, 11208, USA",4829,6160
+49,"196-43 FOOTHILL AVENUE ",4834,6159
+50,"158-10 101st St, Howard Beach, New York, 11414",4831,6163
+51,"30-61 87th St, East Elmhurst, New York, 11369",4829,6157
+53,"95-26 Sutphin Blvd, Jamaica, New York, 11435",4832,6160
+54,"109-01 153rd St, Jamaica, New York, 11433",4833,6161
+56,"64-38 108th St, Forest Hills, New York, 11375",4833,6161
+57,"115-50 Merrick Blvd, Jamaica, New York, 11434",4834,6161
+58,"109-04 160th St, Jamaica, New York, 11433",4833,6161
+59,"357 Empire Blvd, Brooklyn, New York, 11225",4826,6162
+60,"2134 Dean St, Brooklyn, New York, 11233",4827,6162
+61,"661 Linden Blvd, Brooklyn, New York, 11203",4827,6163
+63,"438 Ralph Ave, Brooklyn, New York, 11233",4827,6162
+64,"442 Cleveland St, Brooklyn, New York, 11208",4829,6162
+65,"7420 4th Ave, Brooklyn, NY, 11209, USA",4823,6164
+66,"2414 Church Ave, Brooklyn, New York, 11226",4826,6163
+67,"2046 Flatbush Ave, Brooklyn, New York, 11234",4827,6165
+68,"136 Milton St, Brooklyn, New York, 11222",4826,6159
+69,"88 Hanson Pl, Brooklyn, New York, 11217",4825,6161
+70,"2336 86th St, Brooklyn, New York, 11214",4824,6166
+71,"230 Arlington Ave, Brooklyn, NY, 11207, USA",4829,6162
+72,"6324 7th Ave, Brooklyn, New York, 11220",4823,6164
+73,"2530 Church Ave, Brooklyn, New York, 11226",4826,6163
+74,"279 E 17th St, Brooklyn, New York, 11226",4825,6164
+75,"1712 45th St, Brooklyn, NY, 11204, USA",4825,6164
+76,"414 E 95th St, Brooklyn, New York, 11212",4827,6163
+77,"369 New Lots Ave, Brooklyn, NY, 11207, USA",4829,6163
+78,"520 Kingston Ave, Brooklyn, New York, 11225",4826,6163
+79,"2581 Atlantic Ave, Brooklyn, New York, 11207",4828,6162
+80,"273 Neptune Ave, Brooklyn, NY, 11235, USA",4825,6167
+82,"424 Dean St, Brooklyn, New York, 11217",4825,6161
+83,"9202 Church Ave, Brooklyn, New York, 11236",4827,6163
+85,"2368 Ralph Ave, Brooklyn, New York, 11234",4827,6165
+86,"2001 Oriental Blvd, Brooklyn, NY, 11235, USA",4827,6168
+87,"276 Fenimore St, Brooklyn, New York, 11225",4826,6163
+88,"302 Elton St, Brooklyn, New York, 11208",4829,6162
+89,"1895 Flatbush Ave, Brooklyn, New York, 11210",4827,6165
+90,"66 E 96th St, Brooklyn, New York, 11212",4827,6162
+91,"447 Herzl St, Brooklyn, New York, 11212",4828,6163
+93,"301 Grove St, Oradell, New Jersey, 07649",4828,6160
+94,"1623 Utica Ave, Brooklyn, New York, 11234",4827,6164
+95,"1184 Fulton St, Brooklyn, New York, 11216",4826,6162
+96,"11 Harman St, Brooklyn, New York, 11221",4827,6161
+97,"784 E 46th St, Brooklyn, New York, 11203",4827,6164
+99,"90 92nd St, Brooklyn, New York, 11209",4824,6161
+100,"167 Chester St, Brooklyn, New York, 11212",4828,6162
+101,"167 E 43rd St, Brooklyn, New York, 11203",4827,6163
+102,"722 Church Ave, Brooklyn, NY, 11218, USA",4825,6164
+104,"1033 Glenmore Ave, Brooklyn, New York, 11208",4830,6162
+105,"885 Thomas S Boyland St, Brooklyn, New York, 11212",4828,6163
+106,"257 Macon St, Brooklyn, New York, 11216",4826,6161
+107,"376 Throop Ave, Brooklyn, New York, 11221",4826,6161
+108,"999 Greene Ave, Brooklyn, New York, 11221",4827,6161
+109,"474 Shepherd Ave, Brooklyn, New York, 11208",4829,6162
+110,"336 73rd St, Brooklyn, New York, 11209",4822,6164
+111,"680 Mother Gaston Blvd, Brooklyn, New York, 11212",4828,6163
+112,"757 E 86th St, Brooklyn, New York, 11236",4828,6164
+113,"2020 Foster Ave, Brooklyn, New York, 11210",4826,6164
+114,"1115 Coney Island Ave, Brooklyn, New York, 11230",4825,6165
+115,"1045 Coney Island Ave, Brooklyn, New York, 11230",4825,6164
+116,"9818 FORT HAMILTON PARKWAY",4822,6166
+118,"2085 Rockaway Pkwy, Brooklyn, New York, 11236",4829,6164
+119,"1200 Dean St, Brooklyn, New York, 11216",4826,6162
+120,"730 WILLOUGHBY AVENUE",4826,6161
+121,"2059 Bedford Ave, Brooklyn, New York, 11226",4826,6163
+122,"1962 Linden Blvd, Brooklyn, New York, 11207",4829,6163
+123,"956 Marcy Ave, Brooklyn, New York, 11216",4826,6162
+125,"2093 Fulton St, Brooklyn, New York, 11233",4828,6162
+126,"198 Euclid Ave, Brooklyn, NY, 11208, USA",4829,6161
+127,"254 STANLEY AVENUE",4828,6163
+128,"55-18 CHURCH AVNUEE",4827,6163
+129,"1323 Foster Ave, Brooklyn, New York, 11230",4825,6164
+130,"919 Gates Ave, Brooklyn, New York, 11221",4827,6161
+131,"19 SIDNEY STREET, BROOKLYN, NY 11201",4824,6161
+132,"484 Washington Ave, Brooklyn, NY, 11238, USA",4825,6161
+133,"1089 Clarkson Ave, Brooklyn, New York, 11212",4827,6163
+134,"151 Woodruff Ave, Brooklyn, New York, 11226",4825,6163
+135,"339 8th St, Brooklyn, NY, 11215, USA",4824,6162
+136,"2866 W 17th St, Brooklyn, New York, 11224",4824,6168
+137,"1380 Jefferson Ave, Brooklyn, New York, 11237",4828,6161
+138,"787 TROY AVENUE",4827,6163
+139,"443 39th St, Brooklyn, New York, 11232",4823,6163
+140,"473 EMPIRE BLVD",4826,6162
+141,"358 Classon Ave, Brooklyn, New York, 11238",4825,6161
+142,"1171 E 95th St, Brooklyn, New York, 11236",4828,6164
+143,"622 Cortelyou Rd, Brooklyn, New York, 11218",4825,6164
+144,"716 Chester St, Brooklyn, New York, 11236",4828,6163
+145,"21 SNYDER AVENUE",4826,6163
+146,"627 Remsen Ave, Brooklyn, New York, 11236",4827,6163
+147,"836 Classon Ave, Brooklyn, New York, 11238",4825,6162
+148,"1011 Winthrop St, Brooklyn, New York, 11212",4827,6163
+149,"1615 Nostrand Ave, Brooklyn, New York, 11226",4826,6164
+150,"526 Ralph Ave, Brooklyn, New York, 11233",4827,6162
+151,"1046 BROADWAY",4827,6161
+152,"1387 E 37th St, Brooklyn, New York, 11210",4826,6165
+153,"547 Howard Ave, Brooklyn, New York, 11233",4827,6162
+154,"43 George St, Brooklyn, NY, 11206, USA",4827,6160
+155,"1077 Coney Island Ave, Brooklyn, New York, 11230",4825,6164
+156,"562-574 MADISON STREET",4827,6161
+157,"295 RIDGEWOOD AVENUE",4829,6161
+158,"511 Elton St, Brooklyn, New York, 11208",4829,6162
+159,"817 Livonia Ave, Brooklyn, New York, 11207",4829,6162
+160,"47 ROGERS AVENUE",4826,6162
+161,"188 E 53rd St, Brooklyn, New York, 11203",4827,6163
+162,"4517 AVENUE D",4827,6164
+163,"1144 Flatbush Ave, Brooklyn, New York, 11226",4826,6164
+164,"2741 Albemarle Rd, Brooklyn, New York, 11226",4826,6163
+165,"1476 Bedford Ave, Brooklyn, New York, 11216",4826,6162
+166,"1420 Bushwick Ave, Brooklyn, New York, 11207",4828,6161
+167,"141 FLUSHING AVENUE",4825,6160
+168,"1120 Flatbush Ave, Brooklyn, New York, 11226",4826,6164
+169,"261 E 21st St, Brooklyn, NY, 11226, USA",4826,6163
+170,"165 Conover St, Brooklyn, New York, 11231",4823,6162
+171,"570A Macon St, Brooklyn, New York, 11233",4827,6161
+172,"6753 4TH AVENUE",4823,6164
+173,"1210 Utica Ave, Brooklyn, New York, 11203",4827,6164
+174,"944 Newkirk Ave, Brooklyn, New York, 11230",4825,6164
+176,"133 Elton St, Brooklyn, New York, 11208",4829,6162
+177,"120 E 184th St, Bronx, New York, 10468",4828,6151
+178,"709 Tiffany St, Bronx, New York, 10474",4829,6153
+179,"251 Chester St, Brooklyn, New York, 11212",4828,6162
+180,"4640 Furman Ave, Bronx, New York, 10470",4831,6148
+181,"7708 New Utrecht Ave, Brooklyn, New York, 11214",4824,6165
+182,"1001-1005 MORRIS AVENUE, Bronx, NY, 10456, USA",4827,6153
+183,"781 E 93rd St, Brooklyn, New York, 11236",4828,6163
+184,"870 E 163rd St, Bronx, New York, 10459",4828,6153
+186,"760 Soundview Ave, Bronx, New York, 10473",4830,6153
+187,"1038 Prospect Ave, Bronx, New York, 10459",4828,6153
+188,"1822 Lacombe Ave, Bronx, New York, 10473",4830,6153
+190,"1168 Franklin Ave, Bronx, New York, 10456",4828,6153
+191,"268 E 207th St, Bronx, New York, 10467",4829,6150
+192,"1905 Morris Ave, Bronx, New York, 10453",4828,6151
+193,"2500 Jerome Ave, Bronx, New York, 10468",4828,6150
+194,"330 E 138th St, Bronx, New York, 10454",4827,6154
+195,"623 E 138th St, Bronx, New York, 10454",4828,6154
+196,"1891 Mcgraw Ave, Bronx, New York, 10462",4830,6152
+197,"2500 Westchester Ave, Bronx, New York, 10461",4831,6152
+198,"146 W 238th St, Bronx, New York, 10463",4828,6149
+199,"146 W 228th St, Bronx, New York, 10463",4828,6150
+200,"214 E 181st St, Bronx, New York, 10457",4828,6151
+201,"884 E 163rd St, Bronx, New York, 10459",4828,6153
+202,"2121 Washington Ave, Bronx, New York, 10457",4828,6151
+203,"951 Rev James A Polite Ave, Bronx, New York, 10459",4828,6153
+204,"406 E 184th St, Bronx, New York, 10458",4828,6151
+205,"1488 Hoe Ave, Bronx, New York, 10460",4829,6152
+206,"1140 Teller Ave, Bronx, New York, 10456",4828,6152
+207,"520 E 148th St, Bronx, New York, 10455",4828,6153
+208,"50 E 168th St, Bronx, New York, 10452",4827,6152
+210,"830 UNION AVENUE",4828,6153
+211,"130 W Kingsbridge Rd, Bronx, New York, 10468",4828,6150
+212,"7 Bleecker St, New York, New York, 10012",4824,6159
+213,"429 W 127th St, New York, New York, 10027",4826,6154
+214,"41 W 124th St, New York, New York, 10027",4826,6154
+216,"12 W 11th St, New York, NY, 10011, USA",4824,6158
+219,"60 W 132nd St, New York, New York, 10037",4826,6154
+220,"630 ISHAM STREET, NY 10034",4824,6160
+221,"665 W 182nd St, New York, New York, 10033",4827,6151
+222,"34 W 134th St, New York, New York, 10037",4826,6154
+223,"120 WEST 69TH STREET",4825,6156
+224,"405 W 114th St, New York, New York, 10025",4825,6154
+225,"616 W 114th St, New York, New York, 10025",4825,6154
+226,"508 W 159th St, New York, New York, 10032",4826,6152
+227,"115 WEST 116TH STREET",4826,6154
+229,"280 Rivington St, New York, New York, 10002",4825,6159
+230,"1875 Amsterdam Ave, New York, New York, 10031",4826,6153
+231,"276 W 151st St, New York, New York, 10039",4827,6153
+232,"229 E 118th St, New York, New York, 10035",4827,6154
+234,"50 W 40th St, New York, New York, 10018",4824,6157
+235,"27 Huntington St, Brooklyn, New York, 11231",4823,6162
+237,"271 Myrtle Ave, Brooklyn, NY, 11201, USA",4825,6161
+238,"2417 Stillwell Ave, Brooklyn, New York, 11223",4824,6167
+240,"5601 Avenue N, Brooklyn, New York, 11234",4827,6165
+241,"404 Lefferts Ave, Brooklyn, New York, 11225",4826,6163
+242,"1048 Sutter Ave, Brooklyn, New York, 11208",4829,6162
+243,"449 Eastern Pkwy, Brooklyn, New York, 11216",4826,6162
+244,"260 Jefferson Ave, Hasbrouck Heights, New Jersey, 07604",4826,6161
+245,"1540 Van Siclen Ave, Brooklyn, New York, 11239",4829,6163
+246,"520 Linden Blvd, Brooklyn, New York, 11203",4826,6163
+247,"120 Tompkins Ave, Brooklyn, New York, 11206",4826,6161
+248,"42 Prospect Pl, Brooklyn, New York, 11217",4825,6162
+249,"145 S 3rd St, Brooklyn, New York, 11211",4825,6160
+251,"298 Schenectady Ave, Brooklyn, New York, 11213",4827,6162
+252,"47 Sterling Pl, Brooklyn, NY, 11217, USA",4825,6162
+254,"84 Herbert St, Brooklyn, New York, 11222",4826,6159
+255,"2017 Beverley Rd, Brooklyn, New York, 11226",4826,6164
+256,"1342 Lincoln Pl, Brooklyn, New York, 11213",4827,6162
+257,"133 Thomas S Boyland St, Brooklyn, New York, 11233",4828,6162
+258,"765 Lafayette Ave, Brooklyn, New York, 11221",4826,6161
+259,"265 Decatur St, Brooklyn, New York, 11233",4827,6161
+260,"560 Sterling Pl, Brooklyn, New York, 11238",4826,6162
+261,"4410 Avenue D, Brooklyn, New York, 11203",4827,6164
+262,"69 Mac Donough St, Brooklyn, New York, 11216",4826,6161
+263,"416 Clinton Ave, Brooklyn, New York, 11238",4825,6161
+264,"2004 Fulton St, Brooklyn, New York, 11233",4827,6162
+265,"1417 Union St, Brooklyn, NY, 11213, USA",4826,6162
+266,"11 Palace Ct, Staten Island, New York, 10304",4826,6163
+268,"1094 BROADWAY",4827,6161
+269,"601 Lafayette Ave, Brooklyn, New York, 11216",4826,6161
+270,"280 Riverdale Ave, Brooklyn, New York, 11212",4828,6163
+271,"6025 6th Ave, Brooklyn, New York, 11220",4823,6164
+272,"490 Pacific St, Brooklyn, New York, 11217",4825,6161
+273,"280 Marcy Ave, Brooklyn, New York, 11211",4826,6160
+274,"4124 Avenue H, Brooklyn, New York, 11210",4827,6164
+275,"153 Johnson Ave, Brooklyn, NY, 11206, USA",4826,6160
+276,"889 Rutland Rd, Brooklyn, New York, 11203",4827,6163
+277,"2364 Atlantic Ave, Brooklyn, New York, 11233",4828,6162
+279,"61 Riverdale Ave, Brooklyn, New York, 11212",4828,6163
+280,"475 41st St, Brooklyn, New York, 11232",4823,6163
+281,"2790 W 5th St, Brooklyn, New York, 11224",4825,6167
+282,"8501 New Utrecht Ave, Brooklyn, New York, 11214",4824,6166
+283,"1561 Bedford Ave, Brooklyn, New York, 11225",4826,6162
+284,"437 77th St, Brooklyn, New York, 11209",4823,6165
+285,"1091 Clarkson Ave, Brooklyn, New York, 11212",4827,6163
+286,"340 Willis Ave, Bronx, New York, 10454",4827,6154
+287,"3101 Eastchester Rd, Bronx, New York, 10469",4831,6150
+288,"4471 Mundy Ln, Bronx, New York, 10466",4831,6148
+289,"984 Intervale Ave, Bronx, New York, 10459",4828,6153
+290,"2269 Crotona Ave, Bronx, New York, 10457",4829,6151
+291,"2481 Belmont Ave, Bronx, New York, 10458",4829,6151
+292,"3482 Park Ave, Bronx, New York, 10456",4828,6152
+293,"812 FAILE STREET",4829,6153
+294,"971 E 227th St, Bronx, New York, 10466",4830,6149
+295,"1695 Washington Ave, Bronx, New York, 10457",4828,6152
+296,"495 Willis Ave, Bronx, New York, 10455",4827,6153
+297,"1130 Grand Conc, Bronx, New York, 10456",4827,6152
+298,"402 E 152nd St, Bronx, New York, 10455",4827,6153
+300,"760 WHITEHALL PLACE",4830,6149
+301,"1344 Beach Ave, Bronx, New York, 10472",4830,6152
+302,"3445-3453 WHITE PLAINS ROAD",4830,6150
+304,"2038 Davidson Ave, Bronx, New York, 10453",4828,6151
+306,"2626 E Tremont Ave, Bronx, New York, 10461",4831,6152
+307,"1310 Elder Ave, Bronx, New York, 10472",4829,6152
+309,"720 Castle Hill Ave, Bronx, New York, 10473",4831,6153
+310,"3400 3RD AVENUE",4828,6153
+311,"771 FAIRMOUNT PLACE",4829,6152
+312,"936 E 165th St, Bronx, New York, 10459",4828,6153
+313,"800 E 156th St, Bronx, New York, 10455",4828,6153
+314,"1926 Crotona Pkwy, Bronx, New York, 10460",4829,6152
+315,"3356 Seymour Ave, Bronx, New York, 10469",4831,6150
+316,"348 White Plains Rd, Bronx, New York, 10473",4830,6154
+317,"1275 Grand Conc, Bronx, New York, 10452",4827,6152
+318,"210 Alexander Ave, Bronx, NY, 10454, USA",4827,6154
+319,"2868 Jerome Ave, Bronx, New York, 10468",4829,6150
+323,"1211 Brook Ave, Bronx, New York, 10456",4828,6152
+324,"2230 Light St, Bronx, New York, 10466",4831,6149
+326,"609 E 182nd St, Bronx, New York, 10457",4829,6151
+327,"2347 Lafayette Ave, Bronx, New York, 10473",4831,6153
+328,"1462 Boston Rd, Bronx, New York, 10460",4828,6152
+329,"1200 Waters Pl, Bronx, New York, 10461",4831,6151
+330,"463 W 149th St, New York, New York, 10031",4828,6153
+333,"576 E 165th St, Bronx, New York, 10456",4828,6153
+334,"1257 Ogden Ave, Bronx, New York, 10452",4827,6152
+335,"3450 Dekalb Ave, Bronx, New York, 10467",4829,6149
+336,"709 E 228th St, Bronx, New York, 10466",4830,6149
+337,"2099 Davidson Ave, Bronx, New York, 10453",4828,6151
+338,"1175 Boston Rd, Bronx, New York, 10456",4828,6153
+339,"2409 Lorillard Pl, Bronx, New York, 10458",4829,6151
+340,"1290 Hoe Ave, Bronx, New York, 10459",4829,6152
+341,"2021 Benedict Ave, Bronx, New York, 10462",4830,6152
+342,"157-22 Tuskegee Airmen Way, Jamaica, NY, 11433, USA",4833,6160
+344,"169-65 137th Ave, Jamaica, New York, 11434",4834,6162
+345,"85-12 126th St, Kew Gardens, New York, 11415",4832,6160
+346,"180 Park Hill Ave, Staten Island, New York, 10304",4820,6165
+347,"58-25 Little Neck Pkwy, Little Neck, New York, 11362",4836,6157
+348,"423 W 46th St, New York, New York, 10036",4824,6157
+349,"38-49 12nd St, Long Island City, New York, 11101",4826,6157
+350,"3117 21ST STREET ",4827,6156
+351,"39-21 Crescent St, Long Island City, New York, 11101",4827,6157
+352,"36-49 11th St, Astoria, New York, 11106",4826,6157
+353,"43-02 38th St, Long Island City, New York, 11101",4827,6158
+354,"39-38 29th St, Long Island City, New York, 11101",4827,6157
+355,"35-20 Greenpoint Ave, Sunnyside, New York, 11104",4827,6158
+356,"49-05 5th St, Long Island City, New York, 11101",4826,6158
+357,"79-11 Caldwell Ave, Middle Village, New York, 11379",4829,6159
+358,"88 Convent Ave, New York, New York, 10027",4826,6153
+359,"346 W 20th St, New York, New York, 10011",4824,6158
+360,"1032 Beach 19th St, Far Rockaway, New York, 11691",4835,6166
+362,"83-10 ROCKAWAY BLVD ",4830,6161
+363,"88-19 Liberty Ave, Ozone Park, New York, 11417",4831,6162
+364,"208-15 JAMAICA AVENUE ",4835,6159
+365,"215-31 99th Ave, Queens Village, New York, 11429",4835,6159
+366,"211-04 Hollis Ave, Queens Village, New York, 11429",4835,6160
+367,"98-10 211th St, Queens Village, New York, 11429",4835,6159
+368,"92-96 220th St, Queens Village, New York, 11428",4836,6159
+369,"920 Baychester Ave, Bronx, New York, 10475",4831,6150
+370,"6115 Bay Pkwy, Brooklyn, NY, 11204, USA",4825,6165
+372,"102-16 89th Ave, Richmond Hill, New York, 11418",4831,6161
+373,"87-47 111th St, Richmond Hill, New York, 11418",4831,6161
+374,"89-11 Lefferts Blvd, Richmond Hill, New York, 11418",4831,6161
+375,"68-59 60th Ln, Ridgewood, NY, 11385, USA",4828,6160
+377,"79-10 Cypress Ave, Ridgewood, New York, 11385",4828,6161
+379,"1637 Bedford Ave, Brooklyn, New York, 11225",4826,6162
+381,"2155 UNIVERSITY AVENUE  ",4828,6151
+383,"1900 Crotona Pkwy, Bronx, New York, 10460",4829,6152
+384,"134-10 Rockaway Blvd, South Ozone Park, New York, 11420",4833,6162
+385,"145-03 Rockaway Blvd, Jamaica, New York, 11436",4833,6162
+386,"141-11 123rd Ave, Jamaica, New York, 11436",4833,6162
+387,"105-01 107th Ave, Ozone Park, New York, 11417",4831,6161
+388,"29-10 Thomson Ave, Long Island City, New York, 11101",4827,6158
+389,"3763 83RD STREET ",4829,6157
+391,"7 Marcus Garvey Blvd, Brooklyn, New York, 11206",4826,6160
+392,"70-31 48th Ave, Woodside, New York, 11377",4829,6158
+393,"50-20 45th St, Woodside, New York, 11377",4827,6158
+394,"5306 3rd Ave, Brooklyn, New York, 11220",4823,6164
+395,"1910 Flatbush Ave, Brooklyn, New York, 11210",4827,6165
+396,"835A PENNSYLVANIA",4829,6163
+397,"1799 Flatbush Ave, Brooklyn, New York, 11210",4826,6165
+398,"225 Neptune Ave, Brooklyn, New York, 11235",4825,6167
+399,"3495 Nostrand Ave, Brooklyn, New York, 11229",4826,6166
+400,"5361 Preston Ct, Brooklyn, New York, 11234",4827,6164
+401,"824 Eastern Pkwy, Brooklyn, New York, 11213",4826,6162
+402,"1601 41st St, Brooklyn, New York, 11218",4825,6164
+403,"425 Kings Hwy, Brooklyn, New York, 11223",4825,6166
+404,"483 Albany Ave, Brooklyn, New York, 11203",4826,6163
+405,"3014 Brighton 6th St, Brooklyn, New York, 11235",4825,6168
+406,"6225 New Utrecht Ave, Brooklyn, New York, 11219",4824,6165
+407,"4518 11TH AVENUE, BK 11",4824,6164
+408,"2157 Holland Ave, Bronx, New York, 10462",4830,6151
+409,"121 Bennett Ave, New York, NY, 10033, USA",4827,6151
+410,"12 Avenue D, New York, New York, 10009",4825,6159
+412,"67-09 108th St, Forest Hills, New York, 11375",4831,6159
+413,"15-25 Central Ave, Far Rockaway, NY, 11691, USA",4835,6166
+415,"1466 Manor Rd, Staten Island, New York, 10314",4818,6167
+416,"1870 Drumgoole Rd E, Staten Island, New York, 10309",4814,6171
+417,"5402 New Utrecht Ave, Brooklyn, New York, 11219",4824,6164
+418,"1372 Coney Island Ave, Brooklyn, New York, 11230",4825,6165
+419,"105-47 64th Rd, Forest Hills, New York, 11375",4830,6158
+420,"736 PARK AVENUE ",4826,6160
+421,"871 Bushwick Ave, Brooklyn, New York, 11221",4827,6161
+423,"CORNER OF LINDEN BLVD & CRESCENT STREET",4830,6162
+424,"286 E 156th St, Bronx, New York, 10451",4827,6153
+425,"595 Trinity Ave, Bronx, New York, 10455",4828,6153
+426,"309 Drake St, Bronx, New York, 10474",4829,6154
+427,"177 Nagle Ave, New York, New York, 10034",4827,6151
+428,"454 W 155th St, New York, New York, 10032",4826,6152
+429,"1-11 Astoria Blvd, Astoria, NY, 11102, USA",4827,6156
+430,"10-25 41st Ave, Long Island City, New York, 11101",4826,6157
+432,"120 ANDERSON AVENUE",4818,6164
+433,"22 Roxbury St, Staten Island, New York, 10303",4816,6164
+434,"75 Hill St, Staten Island, NY, 10304, USA",4820,6165
+436,"1208 St Johns Pl, Brooklyn, New York, 11213",4826,6162
+437,"200 4th Ave, Brooklyn, NY, 11217, USA",4824,6162
+439,"2094 Fulton St, Brooklyn, New York, 11233",4828,6162
+440,"1768 St Johns Pl, Brooklyn, New York, 11233",4827,6162
+441,"545 Utica Ave, Brooklyn, New York, 11203",4827,6163
+442,"3154 Fish Ave, Bronx, New York, 10469",4831,6150
+444,"1288 REV. JAMES A. POLITE",4828,6153
+445,"1750 Mansion St, Bronx, New York, 10460",4830,6152
+447,"1234 E New York Ave, Brooklyn, New York, 11212",4827,6162
+448,"123 EAST 55TH STREET",4825,6157
+449,"120 E 32nd St, New York, NY, 10016, USA",4825,6158
+450,"13-15 125th St, College Point, New York, 11356",4826,6154
+451,"12 W 108th St, New York, New York, 10025",4825,6154
+452,"552 W End Ave, New York, New York, 10024",4825,6155
+454,"225 W 99th St, New York, New York, 10025",4825,6155
+455,"250 E 79th St, New York, New York, 10075",4826,6156
+456,"137 E 2nd St, New York, New York, 10009",4824,6159
+458,"257 W 88th St, New York, New York, 10024",4825,6155
+459,"108 E 51st St, New York, NY, 10022, USA",4825,6157
+460,"1014 Gates Ave, Brooklyn, New York, 11221",4827,6161
+461,"1256 Dean St, Brooklyn, New York, 11216",4826,6162
+462,"862 Glenmore Ave, Brooklyn, New York, 11208",4829,6162
+463,"360 Schermerhorn St, Brooklyn, New York, 11217",4825,6161
+464,"800 Marcy Ave, Brooklyn, New York, 11216",4826,6161
+465,"795 Lexington Ave, New York, New York, 10065",4827,6161
+466,"874 Myrtle Ave, Brooklyn, New York, 11206",4826,6161
+467,"1151 Bushwick Ave, Brooklyn, New York, 11221",4827,6161
+468,"520 50th St, Brooklyn, New York, 11220",4823,6164
+469,"1243 Bushwick Ave, Brooklyn, New York, 11221",4828,6161
+470,"114 E 188th St, Bronx, New York, 10468",4828,6151
+471,"1909 Vyse Ave, Bronx, New York, 10460",4829,6152
+472,"3780 3rd Ave, Bronx, New York, 10456",4828,6152
+473,"1101 Boston Rd, Bronx, New York, 10456",4828,6153
+474,"2759 Webster Ave, Bronx, New York, 10458",4829,6150
+475,"719 E 223rd St, Bronx, New York, 10466",4830,6149
+476,"295 St Anns Ave, Bronx, New York, 10454",4827,6154
+477,"777 E 222nd St, Bronx, New York, 10467",4830,6149
+478,"425 E 159th St, Bronx, New York, 10451",4828,6153
+479,"2504 Broadway, New York, New York, 10025",4825,6155
+480,"1765 Madison Ave, New York, New York, 10029",4826,6154
+481,"601 W 114th St, New York, New York, 10025",4825,6154
+482,"108 E 51st St, New York, NY, 10022, USA",4825,6157
+483,"252 W 116th St, New York, New York, 10026",4826,6154
+484,"2290 1st Ave, New York, New York, 10035",4827,6155
+485,"296 9th Ave, New York, New York, 10001",4824,6157
+486,"2348 Adam Clayton Powell Jr Blvd, New York, New York, 10030",4826,6153
+487,"241 W 72nd St, New York, New York, 10023",4824,6156
+488,"3816 9th Ave, New York, New York, 10034",4827,6151
+489,"8 E 109th St, New York, New York, 10029",4826,6155
+490,"2190 Adam Clayton Powell Jr Blvd, New York, New York, 10027",4826,6154
+491,"335 W 51st St, New York, New York, 10019",4824,6157
+492,"545 E 11th St, New York, New York, 10009",4825,6159
+493,"201 W 13rd St, New York, New York, 10011",4824,6158
+494,"1745 1st Ave, New York, New York, 10128",4826,6156
+495,"602 E 9th St, New York, New York, 10009",4825,6159
+496,"55 W 15th St, New York, New York, 10011",4824,6158
+497,"110-25 Guy R Brewer Blvd, Jamaica, New York, 11433",4833,6161
+498,"35-30 103rd St, Corona, New York, 11368",4830,6157
+499,"89-60 164th St, Jamaica, New York, 11432",4833,6160
+500,"106-16 Guy R Brewer Blvd, Jamaica, New York, 11433",4833,6160
+501,"119-48 Sutphin Blvd, Jamaica, New York, 11436",4833,6162
+502,"90 E 161st St, Bronx, NY, 10451, USA",4833,6160
+503,"86-07 35th Ave, Jackson Heights, New York, 11372",4829,6157
+504,"49 Tompkins Ave, Staten Island, New York, 10304",4820,6165
+505,"15 Broad St, Staten Island, NY, 10304, USA",4820,6165
+506,"514 Bay St, Staten Island, New York, 10304",4820,6165
+507,"2322 E 4th St, Brooklyn, New York, 11223",4825,6167
+508,"603 Prospect Ave, Bronx, New York, 10455",4828,6153
+509,"1363 Ogden Ave, Bronx, New York, 10452",4827,6152
+510,"3144 3rd Ave, Bronx, New York, 10451",4828,6153
+511,"85 E 165th St, Bronx, New York, 10452",4827,6152
+512,"307 W 38th St, New York, New York, 10018",4824,6157
+513,"8635 21st Ave, Brooklyn, New York, 11214",4824,6166
+514,"3846 Flatlands Ave, Brooklyn, New York, 11234",4827,6165
+515,"899 Montgomery St, Brooklyn, NY, 11213, USA",4827,6162
+516,"2102 Avenue T, Brooklyn, New York, 11229",4826,6166
+517,"9502 Seaview Ave, Brooklyn, New York, 11236",4829,6164
+518,"1170 Pennsylvania Ave, Brooklyn, New York, 11239",4829,6163
+519,"13-15 125th St, College Point, New York, 11356",4826,6154
+521,"207 W 96th St, New York, New York, 10025",4825,6155
+522,"619 W 179th St, New York, New York, 10033",4827,6151
+523,"415 E 93rd St, New York, New York, 10128",4826,6155
+524,"333 E 115th St, New York, New York, 10029",4827,6155
+525,"402 E 8th St, Brooklyn, New York, 11218",4825,6159
+526,"340 E 106th St, New York, New York, 10029",4826,6155
+527,"23 EAST 115TH STREET",4826,6154
+528,"446 W 36th St, New York, New York, 10018",4824,6157
+529,"60 West St, New York, NY, 10006, USA",4823,6160
+530,"201 Lenox Ave, New York, New York, 10027",4826,6154
+531,"161 Sherman Ave, New York, NY, 10034, USA",4827,6150
+532,"206 E 4th St, New York, NY, 10009, USA",4824,6159
+533,"213 Stanton St, New York, New York, 10002",4824,6159
+534,"73 Lenox Ave, New York, NY, 10026, USA",4826,6154
+535,"410 W 40th St, New York, New York, 10018",4824,6157
+537,"125 E 105th St, New York, New York, 10029",4826,6155
+538,"211 W 141st St, New York, New York, 10030",4826,6153
+539,"213 W 30th St, New York, New York, 10001",4824,6157
+540,"405 W 125th St, New York, New York, 10027",4826,6154
+541,"65 W 138th St, New York, New York, 10037",4826,6153
+542,"521 W 126th St, New York, New York, 10027",4826,6153
+543,"175 E 125th St, New York, New York, 10035",4827,6154
+544,"120 W 14th St, New York, NY, 10011, USA",4824,6158
+546,"64 Essex St, New York, NY, 10002, USA",4824,6159
+547,"148 Post Ave, Lyndhurst, New Jersey, 07071",4827,6150
+548,"575 E 175th St, Bronx, New York, 10457",4827,6152
+549,"203 W 133rd St, New York, New York, 10030",4826,6153
+550,"47 W 34th St, New York, New York, 10001",4824,6157
+551,"59-02 Summerfield St, Ridgewood, New York, 11385",4828,6160
+552,"86-76 80th St, Woodhaven, New York, 11421",4830,6161
+553,"110-31 Merrick Blvd, Jamaica, New York, 11433",4834,6161
+554,"91-19 191st St, Hollis, New York, 11423",4834,6160
+555,"157-11 111th Ave, Jamaica, New York, 11433",4833,6161
+556,"215 Beach 77th St, Arverne, New York, 11692",4833,6167
+557,"109-74 Sutphin Blvd, Jamaica, New York, 11435",4833,6161
+558,"108-02 Sutphin Blvd, Jamaica, New York, 11435",4833,6161
+559,"122-20 Merrill St, Jamaica, New York, 11434",4834,6161
+560,"60-85 Myrtle Ave, Ridgewood, New York, 11385",4828,6160
+561,"31-30 61st St, Woodside, New York, 11377",4828,6157
+562,"85-12 101st Ave, Ozone Park, New York, 11416",4830,6161
+563,"33-16 108th St, Corona, New York, 11368",4830,6157
+564,"21-23 BIRDSALL AVE",4835,6166
+565,"187-10 Baisley Blvd, Saint Albans, New York, 11412",4834,6161
+566,"162-10 Highland Ave, Jamaica, New York, 11432",4833,6160
+567,"108-25 62ND DRIVE",4830,6158
+568,"195-12 Hollis Ave, Saint Albans, New York, 11412",4834,6160
+569,"109-14 Farmers Blvd, Saint Albans, New York, 11412",4834,6160
+570,"191-22 Jamaica Ave, Hollis, New York, 11423",4834,6160
+571,"136-25 Springfield Blvd, Springfield Gardens, New York, 11413",4835,6162
+572,"140-32 Cherry Ave, Flushing, New York, 11355",4832,6157
+573,"87-91 144th St, Jamaica, New York, 11435",4832,6160
+574,"37-38 92nd St, Jackson Heights, New York, 11372",4829,6157
+575,"223 Beach 28th St, Far Rockaway, New York, 11691",4835,6167
+576,"88-28 161st St, Jamaica, New York, 11432",4833,6160
+577,"134-49 228th St, Laurelton, NY, 11413, USA",4835,6162
+578,"88-28 163rd St, Jamaica, New York, 11432",4833,6160
+579,"103-02 171st St, Jamaica, New York, 11433",4833,6160
+580,"131-72 223rd St, Springfield Gardens, New York, 11413",4835,6162
+581,"114-12 Van Wyck Expy, South Ozone Park, New York, 11420",4833,6161
+583,"228-20 137th Ave, Springfield Gardens, New York, 11413",4835,6162
+584,"115-21 Farmers Blvd, Saint Albans, New York, 11412",4835,6161
+585,"92-10 Roosevelt Ave, Elmhurst, New York, 11373",4829,6157
+586,"170-20 140th Ave, Jamaica, New York, 11434",4834,6162
+587,"153-56 Rockaway Blvd, Jamaica, New York, 11434",4834,6162
+588,"217-10 93rd Ave, Queens Village, New York, 11428",4836,6159
+589,"117-08 Merrick Blvd, Jamaica, New York, 11434",4834,6161
+590,"99-13 NORTHERN BLVD",4830,6157
+592,"216-11 Merrick Blvd, Springfield Gardens, New York, 11413",4835,6162
+593,"118-22 Riverton St, Saint Albans, New York, 11412",4834,6161
+594,"67-09 Kissena Blvd, Flushing, New York, 11367",4832,6158
+595,"96-50 222nd St, Queens Village, New York, 11429",4836,6159
+596,"59-14 70th Ave, Ridgewood, New York, 11385",4828,6160
+597,"200-12 Hollis Ave, Saint Albans, New York, 11412",4835,6160
+598,"121-13 Sutphin Blvd, Jamaica, New York, 11434",4833,6162
+599,"52-05 Rockaway Beach Blvd, Far Rockaway, New York, 11691",4834,6167
+600,"143-02 45th Ave, Flushing, New York, 11355",4832,6157
+601,"120-12 140th St, Jamaica, New York, 11436",4833,6162
+603,"95-18 Northern Blvd, Jackson Heights, New York, 11372",4829,6157
+604,"19-20 New Haven Ave, Far Rockaway, New York, 11691",4835,6166
+605,"150-75 Goethals Ave, Jamaica, New York, 11432",4832,6159
+606,"109-24 130th St, South Ozone Park, NY, 11420, USA",4832,6161
+607,"90-07 Merrick Blvd, Jamaica, New York, 11432",4833,6160
+608,"240-08 135th Ave, Rosedale, NY, 11422, USA",4836,6162
+609,"45-18 Broadway, Astoria, New York, 11103",4828,6157
+610,"126-22 150th St, Jamaica, New York, 11436",4833,6162
+611,"111-16 173rd St, Jamaica, New York, 11433",4834,6161
+612,"202-14 Hollis Ave, Saint Albans, New York, 11412",4835,6160
+613,"143-17 Springfield Blvd, Springfield Gardens, New York, 11413",4835,6162
+614,"201-14 Hollis Ave, Saint Albans, New York, 11412",4835,6160
+615,"1501 Richmond Ave, Staten Island, New York, 10314",4816,6166
+616,"4055 Richmond Ave, Staten Island, New York, 10312",4816,6170
+617,"121 Grandview Ave, Staten Island, New York, 10303",4816,6164
+618,"900 Richmond Rd, Staten Island, New York, 10304",4819,6166
+619,"340 BAY STREET",4820,6164
+620,"309 St Pauls Ave, Staten Island, New York, 10304",4820,6165
+621,"614 Richmond Rd, Staten Island, New York, 10304",4820,6166
+623,"42 Austin Pl, Staten Island, New York, 10304",4820,6164
+624,"192 Corson Ave, Staten Island, New York, 10301",4820,6164
+625,"307 St Marks Pl, Staten Island, New York, 10301",4820,6164
+626,"6581 Hylan Blvd, Staten Island, New York, 10309",4814,6172
+627,"80 Union Ave, Brooklyn, NY, 11206, USA",4816,6164
+628,"32 Sands St, Staten Island, New York, 10304",4820,6165
+629,"557 E 31st St, Brooklyn, New York, 11210",4826,6164
+630,"1432 Pitkin Ave, Brooklyn, New York, 11233",4827,6162
+631,"1812 WHITE PLAINS ROAD",4830,6152
+632,"146-17 133rd Ave, Jamaica, New York, 11436",4833,6162
+633,"625 Lenox Ave, New York, New York, 10030",4826,6153
+634,"2134 Richmond Ter, Staten Island, New York, 10302",4818,6164
+635,"2114 Mermaid Ave, Brooklyn, New York, 11224",4824,6168
+636,"457 Grand Ave, Brooklyn, New York, 11238",4825,6161
+637,"777 Schenectady Ave, Brooklyn, New York, 11203",4827,6163
+638,"138 Pennsylvania Ave, Brooklyn, NY, 11207, USA",4828,6162
+639,"1375 Virginia Ave, Bronx, New York, 10462",4830,6152
+640,"901 E Tremont Ave, Bronx, New York, 10460",4829,6152

@@ -1,0 +1,17 @@
+{
+  "name": "gettile",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "Tim Keane <tkeane@doitt.nyc.gov>",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^3.2.6",
+    "proj4": "^2.8.0"
+  }
+}
